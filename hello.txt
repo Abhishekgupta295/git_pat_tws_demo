@@ -5,6 +5,20 @@ changes mades from remote to be pull in local
 
 ## learning cherry picking
 
+<<<<<<< HEAD
 this to cherry picking learnung
 
 c2 - commit two whichl i will cjerry pick  
+=======
+<<<<<<< HEAD
+# inside main branch 
+learning stash
+
+# inside dev branch
+learning stasshh
+=======
+this to cherry picking learnung
+
+c2 - commit two whichl i will cjerry pick  
+>>>>>>> 5aed5f8 ( chore : cherry pick 2)
+>>>>>>> e2b15fa ( chore : cherry pick 3)
