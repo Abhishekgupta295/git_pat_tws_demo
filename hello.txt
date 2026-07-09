@@ -3,9 +3,26 @@ this is from the local for learning PAT
 
 changes mades from remote to be pull in local 
 
+<<<<<<< HEAD
 ## learning cherry picking
 
 <<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+# inside main branch 
+learning stash
+
+# inside dev branch
+learning stasshh
+=======
+this to cherry picking learnung
+
+c2 - commit two whichl i will cjerry pick  
+>>>>>>> 5aed5f8 ( chore : cherry pick 2)
+=======
+>>>>>>> main
 this to cherry picking learnung
 
 c2 - commit two whichl i will cjerry pick  
@@ -22,3 +39,7 @@ this to cherry picking learnung
 c2 - commit two whichl i will cjerry pick  
 >>>>>>> 5aed5f8 ( chore : cherry pick 2)
 >>>>>>> e2b15fa ( chore : cherry pick 3)
+<<<<<<< HEAD
+=======
+>>>>>>> 56c718f ( cherry 4)
+>>>>>>> main
